@@ -22,6 +22,8 @@ Feel free to fork this repository, submit pull requests, or open issues to discu
 | 23.12.06 | [Gemini](https://deepmind.google/technologies/gemini)                             | Gemini is built from the ground up for multimodality — reasoning seamlessly across text, images, video, audio, and code.      | Google                                    | ❌          | `LLM`                | LLM              |
 | 24.01.27 | [MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA)                           | Mixture of Experts for Large Vision-Language Models.                                                                          | Peking University et al                   | ✅          | `LLM`                | LLM              |
 | 24.02.14 | [Large World Model (LWM)](https://largeworldmodel.github.io/)                     | World Model on Million-Length Video and Language with RingAttention.                                                          | UC berkeley                               | ✅          | `LLM`                | LLM              |
+| 24.02.21 | [Gemma](https://github.com/google/gemma_pytorch)                                  | Gemma is a family of lightweight, state-of-the art open models built from research and technology used to create Google Gemini models.| Google                            | ✅          | `LLM`                | LLM              |
+| 24.02.21 | [gemma.cpp](https://github.com/google/gemma.cpp)                                  | lightweight, standalone C++ inference engine for Google's Gemma models.                                                       | Google                                    | ✅          | `LLM`                | LLM              |
 
 
 ## <span id="image_generation">Image Generation</span>
