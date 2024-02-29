@@ -10,6 +10,7 @@ Feel free to fork this repository, submit pull requests, or open issues to discu
 * [Image Tool](#image_tool)
 * [Video Generation](#video_generation)
 * [Video Tool](#video_tool)
+* [Code](#code)
 * [3D](#3d)
 * [Font](#font)
 
@@ -100,6 +101,13 @@ Feel free to fork this repository, submit pull requests, or open issues to discu
 | -------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------- | -------------------- |
 | 24.02.07 | [Anything in Any Scene](https://anythinginanyscene.github.io/)                    | Photorealistic Video Object Insertion.                                                                                        | XPeng Motors                              | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.17509) [![Star](https://img.shields.io/github/stars/AnythingInAnyScene/anything_in_anyscene.svg?style=social&label=Star)](https://github.com/AnythingInAnyScene/anything_in_anyscene)          | `Video-edit`         |
 | 24.02.16 | [V-JEPA](https://github.com/facebookresearch/jepa)                                | Video Joint Embedding Predictive Architecture.                                                                                | Meta AI Research                          | [![report](https://img.shields.io/badge/report-page-E7E7E7.svg?style=flat)](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/) [![Star](https://img.shields.io/github/stars/facebookresearch/jepa.svg?style=social&label=Star)](https://github.com/facebookresearch/jepa)         | `Video-predict`      |
+
+
+## <span id="code">Code</span>
+
+| Date     | Release [Samples]                                                                 | Description                                                                                                                   | Author[Organization]                      | Resource |
+| -------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |-------------|
+| 23.02.28 | [StarCoder 2](https://github.com/bigcode-project/starcoder2)                      | StarCoder2 is a family of code generation models (3B, 7B, and 15B), trained on 600+ programming languages from The Stack v2 and some natural language text such as Wikipedia, Arxiv, and GitHub issues. | BigCode  | [![report](https://img.shields.io/badge/report-page-E7E7E7.svg?style=flat)](https://drive.google.com/file/d/17iGn3c-sYNiLyRSY-A85QOzgzGnGiVI3/view) [![Star](https://img.shields.io/github/stars/bigcode-project/starcoder2.svg?style=social&label=Star)](https://github.com/bigcode-project/starcoder2) | 
 
 
 ## <span id="3d">3D</span>
